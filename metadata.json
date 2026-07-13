@@ -1,0 +1,5 @@
+{
+  "name": "Climate Data Repository",
+  "description": "A comprehensive climate and environmental monitoring system for weather stations, featuring real-time alerts, data visualization, and historical trend analysis.",
+  "requestFramePermissions": []
+}
